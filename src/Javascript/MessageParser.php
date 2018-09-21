@@ -13,7 +13,7 @@ class MessageParser
     /**
      * Create a new JsValidation instance.
      *
-     * @param \Proengsoft\JsValidation\Support\DelegatedValidator $validator
+     * @param \Isrenato\JsValidation\Support\DelegatedValidator $validator
      */
     public function __construct(DelegatedValidator $validator)
     {

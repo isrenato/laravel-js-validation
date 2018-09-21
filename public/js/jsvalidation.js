@@ -2442,7 +2442,7 @@ var DateFormatter;
  *
  * https://github.com/proengsoft/laravel-jsvalidation
  *
- * Copyright (c) 2017 Proengsoft
+ * Copyright (c) 2017 Isrenato
  * Released under the MIT license
  */
 
@@ -2688,7 +2688,7 @@ $(function() {
  *
  * Helper functions used by validators
  *
- * Copyright (c) 2017 Proengsoft
+ * Copyright (c) 2017 Isrenato
  * Released under the MIT license
  */
 
@@ -3025,7 +3025,7 @@ $.extend(true, laravelValidation, {
  *
  * Timezone Helper functions used by validators
  *
- * Copyright (c) 2017 Proengsoft
+ * Copyright (c) 2017 Isrenato
  * Released under the MIT license
  */
 
@@ -3504,7 +3504,7 @@ $.extend(true, laravelValidation, {
  *
  * Methods that implement Laravel Validations
  *
- * Copyright (c) 2017 Proengsoft
+ * Copyright (c) 2017 Isrenato
  * Released under the MIT license
  */
 

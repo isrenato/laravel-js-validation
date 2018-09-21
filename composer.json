@@ -45,11 +45,6 @@
             "Isrenato\\JsValidation\\": "src"
         }
     },
-    "autoload-dev": {
-        "psr-4": {
-            "Isrenato\\JsValidation\\Tests\\": "tests"
-        }
-    },
     "extra": {
         "laravel": {
             "providers": [

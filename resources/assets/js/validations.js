@@ -5,7 +5,7 @@
  *
  * Methods that implement Laravel Validations
  *
- * Copyright (c) 2017 Proengsoft
+ * Copyright (c) 2017 Isrenato
  * Released under the MIT license
  */
 

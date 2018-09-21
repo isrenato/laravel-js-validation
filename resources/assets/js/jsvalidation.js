@@ -3,7 +3,7 @@
  *
  * https://github.com/proengsoft/laravel-jsvalidation
  *
- * Copyright (c) 2017 Proengsoft
+ * Copyright (c) 2017 Isrenato
  * Released under the MIT license
  */
 
