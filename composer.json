@@ -42,7 +42,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Isrenato\\JsValidation\\": "src"
+            "Isrenato\\JsValidation\\": "src/"
         }
     },
     "extra": {
